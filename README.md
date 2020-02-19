@@ -1,2 +1,3 @@
 # golang
-![](C:\Users\Polina.Novikova\Desktop\!\1.png)
+<img src="file:///C:/Users/Polina.Novikova/Desktop/!/1.png" />
+
