@@ -5,6 +5,6 @@
 
 
 **Результаты запуска**  
-![Иллюстрация к проекту](https://github.com/polinanov/golang/blob/master/lab2pipeline/gopipeline.PNG)  
+![Иллюстрация к проекту](https://github.com/polinanov/golang/blob/master/lab3optimization/gooptimization.PNG)  
 
 
