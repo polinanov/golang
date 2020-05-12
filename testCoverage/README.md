@@ -5,4 +5,4 @@
 
 
 **Результаты запуска**  
-![Иллюстрация к проекту](https://github.com/polinanov/golang/blob/master/lab3optimization/gooptimization.PNG)  
+![Иллюстрация к проекту](https://github.com/polinanov/golang/blob/master/testCoverage/test_coverage.PNG)  
